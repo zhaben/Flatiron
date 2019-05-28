@@ -9,3 +9,5 @@ The objective for this project is to create a master repo that links to all the 
 `git` has its own idea of nested file structure. It uses _**submodules**_ to reference different repos. The following code automates the process of adding all the lessons you have done to a single `github` repo. 
 
 A side effect of adding a `submodule` to a repo is that `git` clones that file to your local machine again, creating a set of redundant files. Once you are done with this process, the choice is yours of what files you wish to keep locally. If you are inclined to keep the the organizational structure introduced here, feel free. Otherwise, just delete the recently cloned files.
+
+<img src = imgs/example.png style="height: 400px; width:1400px; resize:both">
