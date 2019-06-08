@@ -1372,3 +1372,6 @@
 [submodule "Module_3/Project/dsc-3-final-project-online-ds-sp-000"]
 	path = Module_3/Project/dsc-3-final-project-online-ds-sp-000
 	url = https://github.com/zhaben/dsc-3-final-project-online-ds-sp-000
+[submodule "Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-07-logistic-regression-model-comparisons-lab-online-ds-sp-000"]
+	path = Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-07-logistic-regression-model-comparisons-lab-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-3-30-07-logistic-regression-model-comparisons-lab-online-ds-sp-000
