@@ -1375,3 +1375,39 @@
 [submodule "Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-07-logistic-regression-model-comparisons-lab-online-ds-sp-000"]
 	path = Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-07-logistic-regression-model-comparisons-lab-online-ds-sp-000
 	url = https://github.com/zhaben/dsc-3-30-07-logistic-regression-model-comparisons-lab-online-ds-sp-000
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-01-introduction-online-ds-sp-000"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-01-introduction-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-4-37-01-introduction-online-ds-sp-000
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-02-introduction-to-nlp-with-nltk-online-ds-sp-000"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-02-introduction-to-nlp-with-nltk-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-4-37-02-introduction-to-nlp-with-nltk-online-ds-sp-000
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-03-introduction-to-regular-expressions-online-ds-sp-000"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-03-introduction-to-regular-expressions-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-4-37-03-introduction-to-regular-expressions-online-ds-sp-000
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-04-regular-expressions-lab-online-ds-sp-000"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-04-regular-expressions-lab-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-4-37-04-regular-expressions-lab-online-ds-sp-000
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-05-feature-engineering-for-text-data-online-ds-sp-000"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-05-feature-engineering-for-text-data-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-4-37-05-feature-engineering-for-text-data-online-ds-sp-000
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-06-corpus-statistics-lab-online-ds-sp-000"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-06-corpus-statistics-lab-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-4-37-06-corpus-statistics-lab-online-ds-sp-000
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-07-context-free-grammars-and-pos-tagging-online-ds-sp-000"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-07-context-free-grammars-and-pos-tagging-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-4-37-07-context-free-grammars-and-pos-tagging-online-ds-sp-000
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-08-context-free-grammars-lab-online-ds-sp-000"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-08-context-free-grammars-lab-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-4-37-08-context-free-grammars-lab-online-ds-sp-000
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-09-text-classification-online-ds-sp-000"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-09-text-classification-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-4-37-09-text-classification-online-ds-sp-000
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-10-text-classification-lab-online-ds-sp-000"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-10-text-classification-lab-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-4-37-10-text-classification-lab-online-ds-sp-000
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-11-section-recap-online-ds-sp-000"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-11-section-recap-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-4-37-11-section-recap-online-ds-sp-000
+[submodule "Module_4/38-big-data-in-pyspark/dsc-4-38-01-introduction-online-ds-sp-000"]
+	path = Module_4/38-big-data-in-pyspark/dsc-4-38-01-introduction-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-4-38-01-introduction-online-ds-sp-000
