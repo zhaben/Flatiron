@@ -571,3 +571,39 @@
 [submodule "Module_1/Project/dsc-1-final-project-online-ds-sp-000"]
 	path = Module_1/Project/dsc-1-final-project-online-ds-sp-000
 	url = https://github.com/zhaben/dsc-1-final-project-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-14-variable-assignment-lab-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-14-variable-assignment-lab-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-1-01-14-variable-assignment-lab-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-19-looping-over-collections-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-19-looping-over-collections-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-1-01-19-looping-over-collections-online-ds-sp-000
+[submodule "Module_1/01-getting-started-with-data-science/dsc-1-01-27-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/01-getting-started-with-data-science/dsc-1-01-27-section-recap-summary-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-1-01-27-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-02-introduction-summary-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-02-introduction-summary-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-1-02-02-introduction-summary-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-05-while-loops-break-continue-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-05-while-loops-break-continue-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-1-02-05-while-loops-break-continue-online-ds-sp-000
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-21-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-21-section-recap-summary-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-1-02-21-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-03-introducing-python-libraries-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-03-introducing-python-libraries-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-1-03-03-introducing-python-libraries-online-ds-sp-000
+[submodule "Module_1/03-working-with-pandas/dsc-1-03-19-section-recap-summary-online-ds-sp-000"]
+	path = Module_1/03-working-with-pandas/dsc-1-03-19-section-recap-summary-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-1-03-19-section-recap-summary-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-12-normal-gaussian-distributions-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-12-normal-gaussian-distributions-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-1-09-12-normal-gaussian-distributions-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-17-skewness-and-kurtosis-lab-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-17-skewness-and-kurtosis-lab-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-1-09-17-skewness-and-kurtosis-lab-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-18-statistical-testing-with-z-score-and-p-value-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-18-statistical-testing-with-z-score-and-p-value-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-1-09-18-statistical-testing-with-z-score-and-p-value-online-ds-sp-000
+[submodule "Module_1/09-statistical-distributions/dsc-1-09-20-one-sample-z-test-lab-online-ds-sp-000"]
+	path = Module_1/09-statistical-distributions/dsc-1-09-20-one-sample-z-test-lab-online-ds-sp-000
+	url = https://github.com/zhaben/dsc-1-09-20-one-sample-z-test-lab-online-ds-sp-000
